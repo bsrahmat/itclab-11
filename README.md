@@ -1,2 +1,1 @@
-# itclab-11
-XOR Gate Programming using Deep Learning
+# XOR Gate Programming using Deep Learning
